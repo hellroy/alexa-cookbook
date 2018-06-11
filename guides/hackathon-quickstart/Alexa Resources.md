@@ -3,7 +3,7 @@
 
 Welcome! We've organized a list of Alexa Skills Development resources to help you get started quickly. This document is categorized into the following sections:
 
-* [**Guides**](#guide) contain step-by-step walkthroughs of building and configuring various Alexa capabilities. ***We reccommend visiting these guides first.***
+* [**Guides**](#guide) contain step-by-step walkthroughs of building and configuring various Alexa capabilities. ***We recommend visiting these guides first.***
 
 * [**Code Samples**](#code-samples) showcase the source code for entire skills. These can be built, deployed, and tested. Code samples are also useful as templates or starting points.
 
@@ -11,7 +11,7 @@ Welcome! We've organized a list of Alexa Skills Development resources to help yo
 
 * [**Videos**](#videos) include live coding, best practices and key design related concepts.
 
-* [**Additional Resources**](#additional-resources) consist of links to inpsiration, external tutorials, help, and other items of extended interest.
+* [**Additional Resources**](#additional-resources) consist of links to inspiration, external tutorials, help, and other items of extended interest.
 
 
 ------
@@ -28,7 +28,7 @@ Link                     | Description
 [Alexa Service Clients](https://github.com/alexa/alexa-skills-kit-sdk-for-nodejs/wiki/Alexa-Service-Clients) | Covers how to use service clients in your skill to access Alexa APIs.
 [Skill Builders](https://github.com/alexa/alexa-skills-kit-sdk-for-nodejs/wiki/Skill-Builders) | Covers how to configure and construct a skill instance.
 [Managing In-Skill Purchases](https://github.com/alexa/alexa-skills-kit-sdk-for-nodejs/wiki/Managing-In-Skill-Purchases) | Covers how to manage in-skill products and the purchase experience in your skills.
-[Voice Design Guide](https://developer.amazon.com/designing-for-voice/) | Contains key design principles, concepts and best practices for creating compleeling, and successful voice interactions.
+[Voice Design Guide](https://developer.amazon.com/designing-for-voice/) | Contains key design principles, concepts and best practices for creating compelling, and successful voice interactions.
 [Setup the ASK CLI](https://developer.amazon.com/docs/smapi/quick-start-alexa-skills-kit-command-line-interface.html) | Instructions to setup the ASK Command Line Interface, a tool to manage skills, related Lambda functions.
 
 ### Code Samples
@@ -91,7 +91,7 @@ Include live coding, best practices and key design related concepts.
 * Smarthome
 	* [Alexa Smarthome API](https://www.twitch.tv/videos/236254801) 
 * Design
-	* [How Building for Voice Differs from Buiding for the Screen](https://www.twitch.tv/videos/257516300)	 
+	* [How Building for Voice Differs from Building for the Screen](https://www.twitch.tv/videos/257516300)	 
 
 You can visit our twitch channel here for more: [https://www.twitch.tv/amazonalexa/videos/all](https://www.twitch.tv/amazonalexa/videos/all)
 
